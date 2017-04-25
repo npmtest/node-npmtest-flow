@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  flow (v0.2.3)  [![npm package](https://img.shields.io/npm/v/npmtest-flow.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-flow) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-flow.svg)](https://travis-ci.org/npmtest/node-npmtest-flow)",
+    "description": "#### basic test coverage for  flow (v0.2.3)  [![npm package](https://img.shields.io/npm/v/npmtest-flow.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-flow) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-flow.svg)](https://travis-ci.org/npmtest/node-npmtest-flow)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "flow": "*",

@@ -1,6 +1,6 @@
 # npmtest-flow
 
-#### test coverage for  flow (v0.2.3)  [![npm package](https://img.shields.io/npm/v/npmtest-flow.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-flow) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-flow.svg)](https://travis-ci.org/npmtest/node-npmtest-flow)
+#### basic test coverage for  flow (v0.2.3)  [![npm package](https://img.shields.io/npm/v/npmtest-flow.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-flow) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-flow.svg)](https://travis-ci.org/npmtest/node-npmtest-flow)
 
 #### Flow-JS makes it easy to express multi-step asynchronous logic in Node or the browser
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-flow/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-flow/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-flow/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-flow/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-flow/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-flow/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-flow/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-flow/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-flow/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-flow/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-flow/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-flow/build/coverage.html/index.html)
 
@@ -65,7 +65,8 @@
     "optionalDependencies": {},
     "readmeFilename": "README.md",
     "url": "http://github.com/willconant/flow-js",
-    "version": "0.2.3"
+    "version": "0.2.3",
+    "bin": {}
 }
 ```
 
